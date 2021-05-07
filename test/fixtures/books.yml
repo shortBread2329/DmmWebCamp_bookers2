@@ -2,10 +2,12 @@
 
 one:
   title: MyText
-  body: MyText
+  body: MyString
+  book_id: MyString
   user_id: 1
 
 two:
   title: MyText
-  body: MyText
+  body: MyString
+  book_id: MyString
   user_id: 1
